@@ -9,7 +9,7 @@
 <div align="center">
   <p align="center">
   <a href="https://youtu.be/BcMIibIUmHc"> <img src=acebot.jpg>
-</p>g
+</p>richuser
 WhatsApp Bot
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/richusir/ACE-BOT)
